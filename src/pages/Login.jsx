@@ -50,7 +50,7 @@ const Input = styled.input`
     border: 2px solid #D7D7D7;
     border-radius: 5px;
     outline: none;
-
+    
     &:focus {
         border-color: #FE8445; /* 포커스 시 색상 변경 */
     }
